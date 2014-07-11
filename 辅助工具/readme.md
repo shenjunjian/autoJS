@@ -4,6 +4,7 @@
 压缩基于Yahoo.Yui.Compressor2.4 for .Net .使用默认压缩条件，主要如下：
 > JavaScriptCompressor js = new JavaScriptCompressor(); 
 > js.Compress(strContent);
+
 > CssCompressor css = new CssCompressor();
 > css.Compress(strContent);
 
