@@ -5,6 +5,15 @@
 打开文件后，按ctrl+k,弹出对话框。先选择表头的单元格，点击按钮生成表头的格式。
 这个格式可以用在autoTable中。
 
-[pre] http://i&b
-<div> abcd
-<span>456 <span>89
+http://images.google.com/images?num=30&q=larry+bird
+这是一个普通段落。
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
+这是另一个普通段落。
+
+*这是另一个普通段落*
