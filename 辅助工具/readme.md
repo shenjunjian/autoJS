@@ -6,5 +6,5 @@
 这个格式可以用在autoTable中。
 
 [pre] http://i&b
-[div] abcd
-[span]456 [span]789
+<div> abcd
+<[span>456 <span>89
